@@ -18,8 +18,12 @@ nav {
   text-align: center;
 }
 
-nav a{
+nav a {
   padding-left: 10px;
   padding-right: 10px;
   background: grey
+}
+
+figcaption {
+  text-align: center;
 }
