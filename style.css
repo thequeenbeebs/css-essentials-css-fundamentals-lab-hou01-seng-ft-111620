@@ -33,3 +33,7 @@ p #featured-property {
   text-align: center;
   width: 800px;
 }
+
+#details {
+  display: block;
+}
